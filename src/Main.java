@@ -9,5 +9,6 @@ public class Main {
         Circle c2 = new Circle("c2", "green", 15, 19, 7);
         System.out.println(c1.getArea());
         System.out.println(c1.getX());
+        // test !!!
     } // end of Main method
 } // end of Main class
